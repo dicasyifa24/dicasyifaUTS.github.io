@@ -1,0 +1,17 @@
+    .awalan {
+        background: url(img/NCT-1.jpg);
+        no-repeat center center;
+        background-size: cover;
+        padding-top: 20%;
+        padding-bottom: 20%;
+        color: white;
+        font-family: 'Stencil';
+    }
+    
+    .unit {
+        background-color: rgb(202, 210, 211);
+    }
+    
+    .about {
+        background-color: #f3f4f5;
+    }
